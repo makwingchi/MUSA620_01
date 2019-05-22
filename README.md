@@ -1,8 +1,6 @@
 
 ## Finding the Philadelphia ZIP Code with the maximum ZHVI (Zillow Home Value Index) over time
 
-First Homework Assignment of MUSA 620 Data Wrangling and Data Visualization at University of Pennsylvania
-
 
 ```python
 import pandas as pd
